@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "repo": "crindt/bower-angular",
+  "description": "Component wrapper for angular library, based upon btford's bower package.",
+  "version": "1.0.6",
+  "keywords": ["angular"]
+  "main": "index-browserify.js",
+  "scripts": [
+      "index-browserify.js",
+      "angular.js",
+  ]
+}
